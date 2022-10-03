@@ -1,0 +1,1 @@
+# Shell_script_to_clone_HDD_with_clonezilla_4partitions_SSDs
